@@ -1,0 +1,31 @@
+﻿  Cara.cpp
+  Figura.cpp
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Hermite.cpp
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\hermite.cpp(33): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\hermite.cpp(34): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\hermite.cpp(38): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  ObjReader.cpp
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  main.cpp
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\figura.h(33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\main.cpp(12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\main.cpp(20): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\main.cpp(18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\main.cpp(33): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+c:\users\eduardo foyo\desktop\proyectograficacion\proyectograficacion\main.cpp(31): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  ProyectoGraficacion.vcxproj -> C:\Users\Eduardo Foyo\Desktop\ProyectoGraficacion\Debug\ProyectoGraficacion.exe
